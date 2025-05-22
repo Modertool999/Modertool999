@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Modi</h2>
+<h2 align="left">Hi! I'm Modi Goldstein-Rosenfeld</h2>
 
 ###
 
