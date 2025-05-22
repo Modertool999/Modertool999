@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Modertool999/Modertool999/output/snake.svg" alt="Snake animation" />
-
-###
