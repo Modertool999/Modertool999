@@ -11,8 +11,8 @@
   />
   <img
     height="170"
-    src="https://e7.pngegg.com/pngimages/712/110/png-clipart-guitar-hero-live-electric-guitar-guitar-poster-guitarist-thumbnail.png"
-    alt="Guitar Image"
+    src="https://www.vhv.rs/dpng/d/463-4634363_ny-jets-helmet-png-new-york-jets-helmet.png"
+    alt="NYJ Image"
   />
   <img
     height="170"
