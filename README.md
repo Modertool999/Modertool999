@@ -11,9 +11,8 @@
   />
   <img
     height="170"
-    src="https://p7.hiclipart.com/preview/847/642/522/guitar-hero-iii-legends-of-rock-dj-hero-video-game-song-through-the-fire-and-flames-others.jpg"
-    alt="Rock Band Image"
-    style="opacity: 0.85;"
+    src="https://e7.pngegg.com/pngimages/712/110/png-clipart-guitar-hero-live-electric-guitar-guitar-poster-guitarist-thumbnail.png"
+    alt="Guitar Image"
   />
   <img
     height="170"
