@@ -11,7 +11,7 @@
   />
   <img
     height="170"
-    src="https://www.vhv.rs/dpng/d/463-4634363_ny-jets-helmet-png-new-york-jets-helmet.png"
+    src="https://www.riddell.com/medias/sys_master/images/images/h7f/h99/8915046694942/-1200Wx1200H-000000000003001645-1.png"
     alt="NYJ Image"
   />
   <img
