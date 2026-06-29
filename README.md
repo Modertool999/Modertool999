@@ -13,6 +13,7 @@
     height="170"
     src="https://p7.hiclipart.com/preview/847/642/522/guitar-hero-iii-legends-of-rock-dj-hero-video-game-song-through-the-fire-and-flames-others.jpg"
     alt="Rock Band Image"
+    style="opacity: 0.85;"
   />
   <img
     height="170"
